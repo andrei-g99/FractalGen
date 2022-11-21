@@ -1,0 +1,9 @@
+﻿  mandelbrot.cpp
+C:\Users\Andrei Gheorghiu\source\repos\mandelbrot\mandelbrot\mandelbrot.cpp(17,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Andrei Gheorghiu\source\repos\mandelbrot\mandelbrot\mandelbrot.cpp(18,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Andrei Gheorghiu\source\repos\mandelbrot\mandelbrot\mandelbrot.cpp(61): warning C4715: 'linspace': not all control paths return a value
+  All 382 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  mandelbrot.vcxproj -> C:\Users\Andrei Gheorghiu\source\repos\mandelbrot\x64\Release\mandelbrot.exe

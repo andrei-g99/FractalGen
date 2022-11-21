@@ -1,0 +1,2 @@
+﻿  mandelbrot.cpp
+C:\Users\Andrei Gheorghiu\source\repos\mandelbrot\mandelbrot\mandelbrot.cpp(5,10): fatal  error C1083: Cannot open include file: 'img.h': No such file or directory
