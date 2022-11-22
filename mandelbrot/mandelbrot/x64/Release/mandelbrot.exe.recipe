@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Andrei Gheorghiu\source\repos\mandelbrot\x64\Release\mandelbrot.exe</FullPath>
+      <FullPath>C:\Users\bitma\source\repos\FractalGen\mandelbrot\x64\Release\mandelbrot.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

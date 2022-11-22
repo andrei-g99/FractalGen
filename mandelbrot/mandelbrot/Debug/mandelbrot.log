@@ -1,0 +1,3 @@
+﻿  mandelbrot.cpp
+C:\Users\bitma\source\repos\FractalGen\mandelbrot\mandelbrot\mandelbrot.cpp(65): warning C4715: 'linspace': not all control paths return a value
+  mandelbrot.vcxproj -> C:\Users\bitma\source\repos\FractalGen\mandelbrot\Debug\mandelbrot.exe
