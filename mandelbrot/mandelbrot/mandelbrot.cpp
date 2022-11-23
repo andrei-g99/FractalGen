@@ -7,7 +7,7 @@
 
 /*  INCLUDE PATHS TO cmplx.lib  AND  imagelib.lib  LIBRARIES */
 
-#define ITERATION_STEPS 200
+#define ITERATION_STEPS 35
 
 #define WHITE color(255, 255, 255)
 #define BLACK color(0, 0, 0)
@@ -59,7 +59,7 @@ int main() {
 	}
 
 	im.set_map(map);
-	im.save_ppm("mandelbrot");
+	im.save_ppm("fractal");
 
 }
 
